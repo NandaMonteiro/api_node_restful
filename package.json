@@ -1,0 +1,19 @@
+{
+  "name": "world_of_reading",
+  "version": "1.0.0",
+  "description": "Projeto de teste",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernanda Alves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-validator": "^5.3.0",
+    "mongodb": "^2.2.9"
+  }
+}
